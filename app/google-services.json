@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515320926512",
+    "project_id": "p2p-chat-94fbf",
+    "storage_bucket": "p2p-chat-94fbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515320926512:android:6968b097edcc256d6938f5",
+        "android_client_info": {
+          "package_name": "com.homework3.p2pchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515320926512-ljpva39591fllan5c4ruqu3dbaea890k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABNcX4zaifTUe-TIZgNggPxEW_KUQiQqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515320926512-ljpva39591fllan5c4ruqu3dbaea890k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
