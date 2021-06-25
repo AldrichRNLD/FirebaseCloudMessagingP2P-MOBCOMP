@@ -1,4 +1,4 @@
-# Firebase Cloud Messaging P2P App
+# HOMEWORK 3 / Firebase Cloud Messaging P2P App
 
 Assignment 3 by Muhammad Aldrich Rinaldi (1313617012) and Adhika Gressa Nugraha (3145162927)
 
