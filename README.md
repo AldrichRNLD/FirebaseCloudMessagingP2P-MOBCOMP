@@ -2,6 +2,8 @@
 
 Assignment 3 by Muhammad Aldrich Rinaldi (1313617012) and Adhika Gressa Nugraha (3145162927)
 
+![](images/kiri.png)                                     ![](images/kanan.png)
+
 
 
 Fitur pada aplikasi ini adalah aplikasi Text Messaging P2P sederhana untuk 2 user secara realtime menggunakan Firebase Cloud Messaging.
